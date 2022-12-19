@@ -3,9 +3,9 @@ INSERT INTO modules.tabela_arredondamento_valor VALUES (23, 2, 'D', 'Irregular',
 INSERT INTO modules.tabela_arredondamento_valor VALUES (24, 2, 'C', 'Bom', 5.000, 6.900, NULL, NULL);
 INSERT INTO modules.tabela_arredondamento_valor VALUES (25, 2, 'B', 'Muito bom', 7.000, 8.900, NULL, NULL);
 INSERT INTO modules.tabela_arredondamento_valor VALUES (26, 2, 'A', 'Excelente', 9.000, 10.000, NULL, NULL);
-INSERT INTO modules.tabela_arredondamento_valor VALUES (1, 1, '1', NULL, 0.000, 0.400, NULL, NULL);
-INSERT INTO modules.tabela_arredondamento_valor VALUES (2, 1, '1 ', NULL, 0.500, 0.900, NULL, NULL);
-INSERT INTO modules.tabela_arredondamento_valor VALUES (3, 1, '1', NULL, 1.000, 1.249, NULL, NULL);
+INSERT INTO modules.tabela_arredondamento_valor VALUES (1, 1, '1', NULL, 0.000, 0.249, NULL, NULL);
+INSERT INTO modules.tabela_arredondamento_valor VALUES (2, 1, '1 ', NULL, 0.250, 0.749, NULL, NULL);
+INSERT INTO modules.tabela_arredondamento_valor VALUES (3, 1, '1', NULL, 0.750, 1.249, NULL, NULL);
 INSERT INTO modules.tabela_arredondamento_valor VALUES (4, 1, '1.5', NULL, 1.250, 1.749, NULL, NULL);
 INSERT INTO modules.tabela_arredondamento_valor VALUES (5, 1, '2', NULL, 1.750, 2.249, NULL, NULL);
 INSERT INTO modules.tabela_arredondamento_valor VALUES (6, 1, '2.5', NULL, 2.250, 2.749, NULL, NULL);
